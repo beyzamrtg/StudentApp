@@ -1,0 +1,4 @@
+
+Ogrenci No: 1	Ogrenci Ad: sadf	Ogrenci Soyad: asdf	Ogrenci Bolum: dsa
+Ogrenci No: 2	Ogrenci Ad: sadf	Ogrenci Soyad: asdf	Ogrenci Bolum: dsa
+Ogrenci No: 3	Ogrenci Ad: sadf	Ogrenci Soyad: asdf	Ogrenci Bolum: dsa
